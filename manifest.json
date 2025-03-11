@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "GitLab Copy Task name",
-  "version": "1.1",
+  "version": "1.1.1",
   "description": "Adds the Project Copy button to Gitlab.",
   "permissions": ["scripting", "activeTab"],
   "host_permissions": ["<all_urls>"],
